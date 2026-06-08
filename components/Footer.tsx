@@ -7,7 +7,7 @@ export function Footer() {
     <footer className="border-t border-white/10 py-12">
       <div className="section-wrap grid gap-10 md:grid-cols-[1.4fr_1fr_1fr_1fr]">
         <div>
-          <p className="font-display text-2xl font-black">MiloWeb Studio</p>
+          <p className="font-display text-2xl font-black">Pracownia Stron</p>
           <p className="mt-4 max-w-sm leading-7 text-[var(--muted)]">
             Projektujemy strony www, landing page'e, sklepy internetowe i automatyzacje AI dla firm, które chcą wyglądać profesjonalnie i zdobywać więcej zapytań.
           </p>
@@ -33,7 +33,7 @@ export function Footer() {
         <div>
           <p className="mb-4 font-bold">Kontakt</p>
           <div className="flex flex-col gap-2 text-sm text-[var(--muted)]">
-            <span>kontakt@milowebstudio.pl</span>
+            <span>kontakt@pracowniastron.pl</span>
             <span>+48 000 000 000</span>
             <span>Polska / współpraca zdalna</span>
             <div className="mt-3 flex gap-2 text-[var(--foreground)]">
@@ -46,7 +46,7 @@ export function Footer() {
         </div>
       </div>
       <div className="section-wrap mt-10 flex flex-col gap-3 border-t border-white/10 pt-6 text-sm text-[var(--muted)] md:flex-row md:items-center md:justify-between">
-        <p>© 2026 MiloWeb Studio. Wszystkie prawa zastrzeżone.</p>
+        <p>© 2026 Pracownia Stron. Wszystkie prawa zastrzeżone.</p>
         <div className="flex gap-4">
           <Link href="/polityka-prywatnosci">Polityka prywatności</Link>
           <Link href="/regulamin">Regulamin</Link>
