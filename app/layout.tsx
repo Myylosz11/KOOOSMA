@@ -3,10 +3,11 @@ import "./globals.css";
 import { SiteProvider } from "@/components/site-provider";
 
 export const metadata: Metadata = {
-  title: "MiloWeb Studio — Profesjonalne strony internetowe, landing page'e i automatyzacje AI",
+  title: "Pracownia Stron — profesjonalne strony internetowe, landing page'e i automatyzacje AI",
   description:
-    "Tworzymy nowoczesne strony internetowe, landing page'e, sklepy online i automatyzacje AI dla firm. Projekt premium, szybkie ładowanie, SEO i pełna responsywność.",
+    "Pracownia Stron tworzy nowoczesne strony internetowe, landing page'e, sklepy online i automatyzacje AI dla firm. Projekt premium, szybkie ładowanie, SEO i pełna responsywność.",
   keywords: [
+    "Pracownia Stron",
     "strony internetowe",
     "tworzenie stron www",
     "landing page",
@@ -20,9 +21,9 @@ export const metadata: Metadata = {
     "SEO techniczne",
     "responsywne strony internetowe"
   ],
-  authors: [{ name: "MiloWeb Studio" }],
+  authors: [{ name: "Pracownia Stron" }],
   openGraph: {
-    title: "MiloWeb Studio — strony www, landing page'e i AI",
+    title: "Pracownia Stron — strony www, landing page'e i AI",
     description: "Premium web design, szybkie wdrożenia, SEO, e-commerce i automatyzacje AI.",
     type: "website",
     locale: "pl_PL"
