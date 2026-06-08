@@ -40,7 +40,7 @@ export default async function Subpage({ params }: { params: Promise<{ slug: stri
               <div className="mb-6 inline-flex h-12 w-12 items-center justify-center rounded-2xl bg-cyan-400/12 text-cyan-200">
                 <Icon size={24} />
               </div>
-              <p className="mb-4 text-sm font-semibold uppercase tracking-[0.24em] text-cyan-200">MiloWeb Studio</p>
+              <p className="mb-4 text-sm font-semibold uppercase tracking-[0.24em] text-cyan-200">Pracownia Stron</p>
               <h1 className="font-display text-4xl font-black leading-tight md:text-6xl">{page.title}</h1>
               <p className="mt-6 max-w-2xl text-lg leading-8 text-[var(--muted)]">{page.lead}</p>
             </div>
