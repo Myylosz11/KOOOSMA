@@ -14,7 +14,7 @@ export function MobileCTA() {
       <a href="https://wa.me/48000000000" className="flex min-h-12 flex-col items-center justify-center gap-1 rounded-xl bg-emerald-500/18 text-xs font-bold">
         <MessageCircle size={17} /> {copy.whatsapp}
       </a>
-      <a href="#kontakt" className="cta-gradient flex min-h-12 flex-col items-center justify-center gap-1 rounded-xl text-xs font-bold text-white">
+      <a href="/#kontakt" className="cta-gradient flex min-h-12 flex-col items-center justify-center gap-1 rounded-xl text-xs font-bold text-white">
         <Send size={17} /> {copy.valuation}
       </a>
     </div>
